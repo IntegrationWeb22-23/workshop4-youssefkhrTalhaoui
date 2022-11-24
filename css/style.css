@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "lacuna_regularregular";
+  src: url("lacuna-webfont.eot");
+  src: url("lacuna-webfont.eot?#iefix") format("embedded-opentype"), url("lacuna-webfont.woff2") format("woff2"), url("lacuna-webfont.woff") format("woff"), url("lacuna-webfont.ttf") format("truetype"), url("lacuna-webfont.svg#lacuna_regularregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+.navbar {
+  background-color: #2d2b2b;
+}
+
+.navbar-brand {
+  background-color: #ffffff;
+}
+
+.nav-link {
+  color: #ffffff !important;
+  font-size: 36px;
+  font-family: "lacuna_regularregular";
+}
+
+.navbar-brand {
+  padding-left: 21px;
+  padding-right: 19px;
+  padding-top: 6px;
+  padding-bottom: 11px;
+}
+
+/*# sourceMappingURL=style.css.map */
